@@ -1,0 +1,62 @@
+[
+  {
+    "id": "A",
+    "nome": "Grupo A",
+    "selecoes": ["coreia-do-sul", "mexico", "republica-tcheca", "africa-do-sul"]
+  },
+  {
+    "id": "B",
+    "nome": "Grupo B",
+    "selecoes": ["bosnia-e-herzegovina", "canada", "catar", "suica"]
+  },
+  {
+    "id": "C",
+    "nome": "Grupo C",
+    "selecoes": ["brasil", "escocia", "haiti", "marrocos"]
+  },
+  {
+    "id": "D",
+    "nome": "Grupo D",
+    "selecoes": ["australia", "estados-unidos", "paraguai", "turquia"]
+  },
+  {
+    "id": "E",
+    "nome": "Grupo E",
+    "selecoes": ["alemanha", "costa-do-marfim", "curacao", "equador"]
+  },
+  {
+    "id": "F",
+    "nome": "Grupo F",
+    "selecoes": ["holanda", "japao", "suecia", "tunisia"]
+  },
+  {
+    "id": "G",
+    "nome": "Grupo G",
+    "selecoes": ["belgica", "egito", "ira", "nova-zelandia"]
+  },
+  {
+    "id": "H",
+    "nome": "Grupo H",
+    "selecoes": ["arabia-saudita", "cabo-verde", "espanha", "uruguai"]
+  },
+  {
+    "id": "I",
+    "nome": "Grupo I",
+    "selecoes": ["franca", "iraque", "noruega", "senegal"]
+  },
+  {
+    "id": "J",
+    "nome": "Grupo J",
+    "selecoes": ["argentina", "argelia", "jordania", "austria"]
+  },
+  {
+    "id": "K",
+    "nome": "Grupo K",
+    "selecoes": ["colombia", "portugal", "rd-congo", "uzbequistao"]
+  },
+  {
+    "id": "L",
+    "nome": "Grupo L",
+    "selecoes": ["croacia", "gana", "inglaterra", "panama"]
+  }
+]

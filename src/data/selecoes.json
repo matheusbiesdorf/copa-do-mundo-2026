@@ -1,0 +1,290 @@
+[
+  {
+    "id": "canada",
+    "nome": "Canadá",
+    "bandeira": "/bandeiras/canada.png",
+    "cor": "#D52B1E"
+  },
+  {
+    "id": "estados-unidos",
+    "nome": "Estados Unidos",
+    "bandeira": "/bandeiras/estados-unidos.png",
+    "cor": "#3C3B6E"
+  },
+  {
+    "id": "mexico",
+    "nome": "México",
+    "bandeira": "/bandeiras/mexico.png",
+    "cor": "#006341"
+  },
+  {
+    "id": "curacao",
+    "nome": "Curaçao",
+    "bandeira": "/bandeiras/curacao.png",
+    "cor": "#002B7F"
+  },
+  {
+    "id": "haiti",
+    "nome": "Haiti",
+    "bandeira": "/bandeiras/haiti.png",
+    "cor": "#00209F"
+  },
+  {
+    "id": "panama",
+    "nome": "Panamá",
+    "bandeira": "/bandeiras/panama.png",
+    "cor": "#005293"
+  },
+  {
+    "id": "japao",
+    "nome": "Japão",
+    "bandeira": "/bandeiras/japao.png",
+    "cor": "#BC002D"
+  },
+  {
+    "id": "ira",
+    "nome": "Irã",
+    "bandeira": "/bandeiras/ira.png",
+    "cor": "#239F40"
+  },
+  {
+    "id": "uzbequistao",
+    "nome": "Uzbequistão",
+    "bandeira": "/bandeiras/uzbequistao.png",
+    "cor": "#1EB53A"
+  },
+  {
+    "id": "coreia-do-sul",
+    "nome": "Coreia do Sul",
+    "bandeira": "/bandeiras/coreia-do-sul.png",
+    "cor": "#CD2E3A"
+  },
+  {
+    "id": "jordania",
+    "nome": "Jordânia",
+    "bandeira": "/bandeiras/jordania.png",
+    "cor": "#007A3D"
+  },
+  {
+    "id": "australia",
+    "nome": "Austrália",
+    "bandeira": "/bandeiras/australia.png",
+    "cor": "#012169"
+  },
+  {
+    "id": "catar",
+    "nome": "Catar",
+    "bandeira": "/bandeiras/catar.png",
+    "cor": "#8A1538"
+  },
+  {
+    "id": "arabia-saudita",
+    "nome": "Arábia Saudita",
+    "bandeira": "/bandeiras/arabia-saudita.png",
+    "cor": "#006C35"
+  },
+  {
+    "id": "nova-zelandia",
+    "nome": "Nova Zelândia",
+    "bandeira": "/bandeiras/nova-zelandia.png",
+    "cor": "#00247D"
+  },
+  {
+    "id": "argentina",
+    "nome": "Argentina",
+    "bandeira": "/bandeiras/argentina.png",
+    "cor": "#75AADB"
+  },
+  {
+    "id": "brasil",
+    "nome": "Brasil",
+    "bandeira": "/bandeiras/brasil.png",
+    "cor": "#009739"
+  },
+  {
+    "id": "equador",
+    "nome": "Equador",
+    "bandeira": "/bandeiras/equador.png",
+    "cor": "#FFD100"
+  },
+  {
+    "id": "uruguai",
+    "nome": "Uruguai",
+    "bandeira": "/bandeiras/uruguai.png",
+    "cor": "#0038A8"
+  },
+  {
+    "id": "colombia",
+    "nome": "Colômbia",
+    "bandeira": "/bandeiras/colombia.png",
+    "cor": "#FCD116"
+  },
+  {
+    "id": "paraguai",
+    "nome": "Paraguai",
+    "bandeira": "/bandeiras/paraguai.png",
+    "cor": "#0038A8"
+  },
+  {
+    "id": "marrocos",
+    "nome": "Marrocos",
+    "bandeira": "/bandeiras/marrocos.png",
+    "cor": "#C1272D"
+  },
+  {
+    "id": "tunisia",
+    "nome": "Tunísia",
+    "bandeira": "/bandeiras/tunisia.png",
+    "cor": "#E70013"
+  },
+  {
+    "id": "egito",
+    "nome": "Egito",
+    "bandeira": "/bandeiras/egito.png",
+    "cor": "#CE1126"
+  },
+  {
+    "id": "argelia",
+    "nome": "Argélia",
+    "bandeira": "/bandeiras/argelia.png",
+    "cor": "#006233"
+  },
+  {
+    "id": "gana",
+    "nome": "Gana",
+    "bandeira": "/bandeiras/gana.png",
+    "cor": "#FCD116"
+  },
+  {
+    "id": "cabo-verde",
+    "nome": "Cabo Verde",
+    "bandeira": "/bandeiras/cabo-verde.png",
+    "cor": "#003893"
+  },
+  {
+    "id": "africa-do-sul",
+    "nome": "África do Sul",
+    "bandeira": "/bandeiras/africa-do-sul.png",
+    "cor": "#007A4D"
+  },
+  {
+    "id": "costa-do-marfim",
+    "nome": "Costa do Marfim",
+    "bandeira": "/bandeiras/costa-do-marfim.png",
+    "cor": "#F77F00"
+  },
+  {
+    "id": "senegal",
+    "nome": "Senegal",
+    "bandeira": "/bandeiras/senegal.png",
+    "cor": "#00853F"
+  },
+  {
+    "id": "inglaterra",
+    "nome": "Inglaterra",
+    "bandeira": "/bandeiras/inglaterra.png",
+    "cor": "#C8102E"
+  },
+  {
+    "id": "franca",
+    "nome": "França",
+    "bandeira": "/bandeiras/franca.png",
+    "cor": "#0055A4"
+  },
+  {
+    "id": "croacia",
+    "nome": "Croácia",
+    "bandeira": "/bandeiras/croacia.png",
+    "cor": "#FF0000"
+  },
+  {
+    "id": "portugal",
+    "nome": "Portugal",
+    "bandeira": "/bandeiras/portugal.png",
+    "cor": "#006600"
+  },
+  {
+    "id": "noruega",
+    "nome": "Noruega",
+    "bandeira": "/bandeiras/noruega.png",
+    "cor": "#BA0C2F"
+  },
+  {
+    "id": "holanda",
+    "nome": "Holanda",
+    "bandeira": "/bandeiras/holanda.png",
+    "cor": "#FF4F00"
+  },
+  {
+    "id": "alemanha",
+    "nome": "Alemanha",
+    "bandeira": "/bandeiras/alemanha.png",
+    "cor": "#000000"
+  },
+  {
+    "id": "suica",
+    "nome": "Suíça",
+    "bandeira": "/bandeiras/suica.png",
+    "cor": "#D52B1E"
+  },
+  {
+    "id": "austria",
+    "nome": "Áustria",
+    "bandeira": "/bandeiras/austria.png",
+    "cor": "#ED2939"
+  },
+  {
+    "id": "belgica",
+    "nome": "Bélgica",
+    "bandeira": "/bandeiras/belgica.png",
+    "cor": "#FAE042"
+  },
+  {
+    "id": "espanha",
+    "nome": "Espanha",
+    "bandeira": "/bandeiras/espanha.png",
+    "cor": "#AA151B"
+  },
+  {
+    "id": "escocia",
+    "nome": "Escócia",
+    "bandeira": "/bandeiras/escocia.png",
+    "cor": "#005EB8"
+  },
+  {
+    "id": "turquia",
+    "nome": "Turquia",
+    "bandeira": "/bandeiras/turquia.png",
+    "cor": "#E30A17"
+  },
+  {
+    "id": "republica-tcheca",
+    "nome": "República Tcheca",
+    "bandeira": "/bandeiras/republica-tcheca.png",
+    "cor": "#11457E"
+  },
+  {
+    "id": "suecia",
+    "nome": "Suécia",
+    "bandeira": "/bandeiras/suecia.png",
+    "cor": "#006AA7"
+  },
+  {
+    "id": "bosnia-e-herzegovina",
+    "nome": "Bósnia e Herzegovina",
+    "bandeira": "/bandeiras/bosnia-e-herzegovina.png",
+    "cor": "#002395"
+  },
+  {
+    "id": "rd-congo",
+    "nome": "RD Congo",
+    "bandeira": "/bandeiras/rd-congo.png",
+    "cor": "#007FFF"
+  },
+  {
+    "id": "iraque",
+    "nome": "Iraque",
+    "bandeira": "/bandeiras/iraque.png",
+    "cor": "#CE1126"
+  }
+]
