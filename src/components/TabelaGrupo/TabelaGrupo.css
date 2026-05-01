@@ -1,0 +1,75 @@
+.tabela-grupo {
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 16px;
+  padding: 16px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+  overflow-x: auto;
+}
+
+.tabela-grupo h2 {
+  margin-bottom: 16px;
+  font-size: 1.2rem;
+}
+
+.tabela-grupo table {
+  width: 100%;
+  border-collapse: collapse;
+  min-width: 620px;
+}
+
+.tabela-grupo th,
+.tabela-grupo td {
+  padding: 10px 8px;
+  text-align: center;
+  border-bottom: 1px solid #e5e7eb;
+  font-size: 0.9rem;
+}
+
+.tabela-grupo th {
+  color: #6b7280;
+  font-weight: 700;
+}
+
+.tabela-grupo td:nth-child(2),
+.tabela-grupo th:nth-child(2) {
+  text-align: left;
+}
+
+.selecao-tabela {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  min-width: 160px;
+}
+
+.selecao-tabela img {
+  width: 28px;
+  height: 20px;
+  object-fit: cover;
+  border-radius: 3px;
+  border: 1px solid #e5e7eb;
+}
+
+.classificado-direto {
+  background: rgba(34, 197, 94, 0.08);
+}
+
+.possivel-classificado {
+  background: rgba(234, 179, 8, 0.1);
+}
+
+.eliminado {
+  opacity: 0.78;
+}
+
+.status-classificacao {
+  display: inline-block;
+  min-width: 96px;
+  padding: 4px 8px;
+  border-radius: 999px;
+  font-size: 0.75rem;
+  font-weight: 700;
+  background: #f3f4f6;
+  color: #374151;
+}
